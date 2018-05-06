@@ -1,0 +1,5 @@
+const config = {
+    PAGE_ACCESS_TOKEN:"EAADOo0FZAY4sBADLOd7bLVmA7iKrJSuFVjZBYKEnFcojZBaiIGoBKGzapPMS3R8jJg5thLkGvhzzgWbBYosZBZBNeLe1FEk7169JsFcf3gI7f3dpH0XRMQYx9vXfkKPpagBf4p6FbIZBjFu4drFyRl3xGPEIpoE8bCETqEtoULcefDAGb95Ar43HgKaDv8qGIZD"
+  }
+  
+  module.exports = config;
